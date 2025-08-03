@@ -1,4 +1,4 @@
-# 🚀 InternPro - Modern Full Stack (React.js+ Python) Internship Discovery Platform
+# 🚀 InternPro - Modern Full Stack (React.js+ Python Django) Internship Discovery Platform
 
 > A beautiful, Apple-inspired React frontend for connecting students with their dream internships
 
@@ -124,4 +124,5 @@ python manage.py runserver
 - Application
 
 **Made with ❤️ by Rudra Banerjee**
+
 
